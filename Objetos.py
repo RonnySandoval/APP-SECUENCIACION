@@ -74,7 +74,7 @@ VHKIC0022=Vehiculo(id_chasis = 'KIC0022',modelo='KICKS',pedido='quito06')
 VHCOL0023=Vehiculo(id_chasis = 'COL0023',modelo='COOLRAY',pedido='quito06')
 VHAZK0024=Vehiculo(id_chasis = 'AZK0024',modelo='AZKARRA',pedido='quito06')
 VHX550025=Vehiculo(id_chasis = 'X550025',modelo='X55',pedido='quito06')
-
+VHX550026=Vehiculo(id_chasis = 'X550026',modelo='X55',pedido='quito06')
 
 #EJEMPLO DE PEDIDO
 pedido_quito06 = Pedido(
@@ -105,6 +105,7 @@ pedido_quito06 = Pedido(
                                     VHCOL0023,
                                     VHAZK0024,
                                     VHX550025,
+                                    VHX550026,
                                     ],
                         estado ="PENDIENTE"
                         )
