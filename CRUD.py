@@ -56,6 +56,9 @@ def crear_tabla_vehiculos():
 
     print("Tabla 'Vehiculos_pedido' creada exitosamente.")
 
+def crear_tabla_tecnicos():
+    pass
+
 
 def eliminar_tabla(nombre_tabla):
     try:
@@ -257,6 +260,9 @@ def eliminar_vehiculo(chasis):
     finally:
         conn.close()
 
+
+def modificar_vehiculos(chasis):
+    pass
 
 
 #crear_tabla_vehiculos()

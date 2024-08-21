@@ -1,12 +1,27 @@
 # Fuentes
-tituloGrande  = ("Bahnschrift", 18)
-textoGrande   = ("Bahnschrift", 14)
-numerosGrandes = ("Franklin Gothic Book", 15)
-numerosMuyPequeños = ("Franklin Gothic Book", 8)
-numerosPequeños = ("Arial Narrow", 10)
-numerosMedianos =("Arial Narrow", 12)
-textoMinimo   = ("Segoe UI Black", 7)
-textoBajo     = ("Franklin Gothic Book", 10)
+tituloGrande  = ("Bahnschrift", 20)
+tituloMedio   = ("Bahnschrift", 18)
+tituloBajo    = ("Bahnschrift", 15)
+tituloMinimo  = ("Bahnschrift", 13)
+
+texto1Grande   = ("Franklin Gothic Book", 15)
+texto1Medio    = ("Franklin Gothic Book", 13)
+texto1Bajo     = ("Franklin Gothic Book", 11)
+texto1Minimo   = ("Franklin Gothic Book", 9)
+
+textoGrande   = ("Segoe UI Black", 15)
+textoMedio    = ("Segoe UI Black", 7)
+textoBajo     = ("Segoe UI Black", 10)
+textoMinimo   = ("Segoe UI Black", 10)
+
+
+numerosGrandes     = ("Arial Narrow", 15)
+numerosMedianos    = ("Arial Narrow", 13)
+numerosPequeños    = ("Arial Narrow", 10)
+numerosMuyPequeños = ("Arial Narrow", 8)
+
+
+
 
 # Colores
 grisOscuro = "#272727"
